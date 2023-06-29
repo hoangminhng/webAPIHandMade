@@ -1,0 +1,4 @@
+com\hoangminh\bookstore\dto\Book.class
+com\hoangminh\bookstore\resource\v1\AuthorResource.class
+com\hoangminh\bookstore\resource\v1\BookResource.class
+com\hoangminh\bookstore\config\BookStoreApplication.class
